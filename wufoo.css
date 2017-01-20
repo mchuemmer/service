@@ -10,4 +10,12 @@
   border-radius: 20px;
   border: 0;
   padding: 10px 15px;
+  cursor: pointer;
 }
+
+#saveForm:hover, #saveForm:focus,
+#nextPageButton:hover, #nextPageButton:focus {
+  background: rgba(0,138,117,1);
+  cursor: pointer;
+}
+
