@@ -1,0 +1,13 @@
+#saveForm,
+#nextPageButton {
+  display:block;
+  background: #00917E;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: normal;
+  text-align: center;
+  color: #fff;
+  border-radius: 20px;
+  border: 0;
+  padding: 10px 15px;
+}
