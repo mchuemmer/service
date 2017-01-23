@@ -24,3 +24,7 @@ a {
    font-size: 75%;	
 }
 
+.pgStyle1 .selected var, .pgStyle2 var, .pgStyle2 var em {
+    background: #00917E;
+    color: #FFFFFF;
+}
